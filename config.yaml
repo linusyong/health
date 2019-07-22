@@ -1,0 +1,7 @@
+disk:
+  - path: '/'
+    warning: 80
+    critical: 90
+  - path: '/boot'
+    warning: 80
+    critical: 90
